@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Ellaya_ExampleScene.unity
+    guid: 2bcd794e6127df147a1490e8a84d52bc
   m_configObjects: {}
