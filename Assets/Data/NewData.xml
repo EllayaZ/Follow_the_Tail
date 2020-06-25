@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Container xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArGpsLocationData>
+    <Entry>
+      <id>10001</id>
+      <lat>49.287612915039063</lat>
+      <lng>-123.12663269042969</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Cube</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>10002</id>
+      <lat>49.287612915039063</lat>
+      <lng>-123.12663269042969</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Sphere</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+  </ArGpsLocationData>
+</Container>
