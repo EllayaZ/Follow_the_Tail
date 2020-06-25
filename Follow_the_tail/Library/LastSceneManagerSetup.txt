@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Ellaya_ExampleScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
