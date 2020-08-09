@@ -44,8 +44,10 @@ public class DatabaseHandler : MonoBehaviour
 
     private void SetLocations(string json)
     {
+        Debug.Log(json);
         locations = JsonConvert.DeserializeObject<EntriesContainer>(json);
         XmlOperation.Serialize(locations, "Assets/Data/NewData.xml");
+        Debug.Log("Serializing");
     }
 
     public void PostLocation(string meshID)

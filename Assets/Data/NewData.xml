@@ -2,9 +2,9 @@
 <Container xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ArGpsLocationData>
     <Entry>
-      <id>10001</id>
-      <lat>49.287612915039063</lat>
-      <lng>-123.12663269042969</lng>
+      <id>1</id>
+      <lat>49.279247371735437</lat>
+      <lng>-123.11008231162009</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
@@ -15,9 +15,49 @@
       <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
     </Entry>
     <Entry>
-      <id>10002</id>
-      <lat>49.287612915039063</lat>
-      <lng>-123.12663269042969</lng>
+      <id>2</id>
+      <lat>49.279223354844561</lat>
+      <lng>-123.11011912627455</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Sphere</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry xsi:nil="true" />
+    <Entry>
+      <id>3</id>
+      <lat>49.27978515625</lat>
+      <lng>-123.11022186279297</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Sphere</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>4</id>
+      <lat>49.27978515625</lat>
+      <lng>-123.11022186279297</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Cube</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>5</id>
+      <lat>49.279712677001953</lat>
+      <lng>-123.11028289794922</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
