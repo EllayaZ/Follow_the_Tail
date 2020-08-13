@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/UI Scene K.unity
     guid: 26ffc30577dfc4cb68e4fbe7601f8715
   - enabled: 1
-    path: Assets/Scenes/AR Scene Kaleb.unity
-    guid: 82bd81dbdef554198b4bfb82dcc3b207
+    path: Assets/Scenes/AR Scene Kaleb 2.unity
+    guid: b748c627c445c4fd3aaf3e09d23e7d10
   m_configObjects: {}

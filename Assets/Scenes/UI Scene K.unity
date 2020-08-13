@@ -389,7 +389,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: AR Scene Kaleb
+          m_StringArgument: AR Scene Kaleb 2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &101368079
@@ -1889,7 +1889,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 480, y: -1105.5305}
+  m_AnchoredPosition: {x: 503.03998, y: -1149.5}
   m_SizeDelta: {x: 666, y: 114}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &348413336
@@ -1943,7 +1943,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: AR Scene Kaleb
+          m_StringArgument: AR Scene Kaleb 2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &348413337
@@ -4248,7 +4248,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -87.93884}
+  m_SizeDelta: {x: -73.38025, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1143745465
 MonoBehaviour:
@@ -6795,7 +6795,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 480, y: -966.53125}
+  m_AnchoredPosition: {x: 503.03998, y: -1010.5}
   m_SizeDelta: {x: 666, y: 114}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1569025771

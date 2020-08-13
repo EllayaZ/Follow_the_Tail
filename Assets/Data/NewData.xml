@@ -67,5 +67,18 @@
       <useMovingAverage>false</useMovingAverage>
       <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
     </Entry>
+    <Entry>
+      <id>6</id>
+      <lat>49.279781341552734</lat>
+      <lng>-123.11006164550781</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Cube</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
   </ArGpsLocationData>
 </Container>
