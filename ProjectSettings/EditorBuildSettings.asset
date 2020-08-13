@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AR Scene Kaleb.unity
-    guid: 82bd81dbdef554198b4bfb82dcc3b207
+    path: Assets/Scenes/AR Scene Ellaya.unity
+    guid: 4570846d489c61f4795e4c9819a932cf
   m_configObjects: {}
