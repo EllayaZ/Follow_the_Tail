@@ -15,12 +15,22 @@ public class CreateUserHandler : MonoBehaviour
     [SerializeField] private TextMeshProUGUI usernameWelcomeText;
 
     [SerializeField] private GameObject nameTakenPopUp;
+    [SerializeField] private GameObject noMatchingPasswordsPopUp;
+    [SerializeField] private GameObject fillAllPopUp;
     [SerializeField] private GameObject CreateAccountPanel;
     [SerializeField] private GameObject SelectedExperiencePanel;
 
     public void PostUser()
     {
-        StartCoroutine(CheckUser());
+        if(usernameText.text.Length > 0 && userPassText.text.Length > 0 && userPass2Text.text.Length > 0)
+        {
+            StartCoroutine(CheckUser());
+        }
+
+        else
+        {
+            fillAllPopUp.SetActive(true);
+        }
     }
 
     IEnumerator CheckUser()
@@ -83,8 +93,7 @@ public class CreateUserHandler : MonoBehaviour
 
         else
         {
-            Debug.Log("Passwords doesn't match");
-            // We need a new Pop Up 
+            noMatchingPasswordsPopUp.SetActive(true);
         }
     }
 
