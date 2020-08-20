@@ -4,7 +4,6 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.Networking;
 using Proyecto26;
-using Newtonsoft.Json;
 using System.Text.RegularExpressions;
 
 public class CreateUserHandler : MonoBehaviour
