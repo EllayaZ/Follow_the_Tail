@@ -8,7 +8,20 @@
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Cube</meshId>
+      <meshId>Pizza</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>1</id>
+      <lat>49.279267757983774</lat>
+      <lng>-123.11001668889008</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Pizza</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>
@@ -16,26 +29,25 @@
     </Entry>
     <Entry>
       <id>2</id>
-      <lat>49.279223354844561</lat>
-      <lng>-123.11011912627455</lng>
+      <lat>49.283268</lat>
+      <lng>-123.103729</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Sphere</meshId>
+      <meshId>Coffee</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>
       <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
     </Entry>
-    <Entry xsi:nil="true" />
     <Entry>
       <id>3</id>
-      <lat>49.27978515625</lat>
-      <lng>-123.11022186279297</lng>
+      <lat>49.283497</lat>
+      <lng>-123.103852</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Sphere</meshId>
+      <meshId>Coffee</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>
@@ -43,12 +55,12 @@
     </Entry>
     <Entry>
       <id>4</id>
-      <lat>49.27978515625</lat>
-      <lng>-123.11022186279297</lng>
+      <lat>49.284367</lat>
+      <lng>-123.108704</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Cube</meshId>
+      <meshId>Coffee</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>
@@ -56,12 +68,12 @@
     </Entry>
     <Entry>
       <id>5</id>
-      <lat>49.279712677001953</lat>
-      <lng>-123.11028289794922</lng>
+      <lat>49.284457</lat>
+      <lng>-123.109289</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Sphere</meshId>
+      <meshId>Coffee</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>
@@ -69,12 +81,454 @@
     </Entry>
     <Entry>
       <id>6</id>
-      <lat>49.279781341552734</lat>
-      <lng>-123.11006164550781</lng>
+      <lat>49.284542</lat>
+      <lng>-123.110554</lng>
       <altitude>0</altitude>
       <altitudeMode>GroundRelative</altitudeMode>
       <name>entry</name>
-      <meshId>Cube</meshId>
+      <meshId>Coffee</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>7</id>
+      <lat>49.284462</lat>
+      <lng>-123.110426</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Coffee</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>8</id>
+      <lat>49.283477</lat>
+      <lng>-123.10406</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>9</id>
+      <lat>49.283518</lat>
+      <lng>-123.10383</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>10</id>
+      <lat>49.283187</lat>
+      <lng>-123.104358</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>11</id>
+      <lat>49.283597</lat>
+      <lng>-123.104269</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>12</id>
+      <lat>49.283143</lat>
+      <lng>-123.104326</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>13</id>
+      <lat>49.284625</lat>
+      <lng>-123.110304</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Sushi</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>14</id>
+      <lat>49.283373</lat>
+      <lng>-123.104276</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Burger</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>15</id>
+      <lat>49.283512</lat>
+      <lng>-123.104113</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Burger</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>16</id>
+      <lat>49.283434</lat>
+      <lng>-123.104354</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Burger</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>17</id>
+      <lat>49.283301</lat>
+      <lng>-123.103949</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Pizza</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>18</id>
+      <lat>49.283205</lat>
+      <lng>-123.104314</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Pizza</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>19</id>
+      <lat>49.283365</lat>
+      <lng>-123.103827</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Camera</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>20</id>
+      <lat>49.284369</lat>
+      <lng>-123.108826</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Camera</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>21</id>
+      <lat>49.284507</lat>
+      <lng>-123.110582</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Camera</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>22</id>
+      <lat>49.28333</lat>
+      <lng>-123.104037</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>23</id>
+      <lat>49.283612</lat>
+      <lng>-123.104418</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>24</id>
+      <lat>49.283314</lat>
+      <lng>-123.103467</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>25</id>
+      <lat>49.283276</lat>
+      <lng>-123.10373</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>26</id>
+      <lat>49.284406</lat>
+      <lng>-123.108818</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>27</id>
+      <lat>49.284484</lat>
+      <lng>-123.109368</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>28</id>
+      <lat>49.284565</lat>
+      <lng>-123.109889</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>29</id>
+      <lat>49.284421</lat>
+      <lng>-123.110381</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>30</id>
+      <lat>49.284392</lat>
+      <lng>-123.110329</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>31</id>
+      <lat>49.284563</lat>
+      <lng>-123.110384</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>32</id>
+      <lat>49.279264</lat>
+      <lng>-123.110048</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Pizza</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>33</id>
+      <lat>49.279258</lat>
+      <lng>-123.110047</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Pizza</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>34</id>
+      <lat>49.27927</lat>
+      <lng>-123.110024</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Bottles</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>35</id>
+      <lat>49.279265</lat>
+      <lng>-123.110025</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Sushi</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>36</id>
+      <lat>49.279278</lat>
+      <lng>-123.110051</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Burger</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>37</id>
+      <lat>49.279287</lat>
+      <lng>-123.110034</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Camera</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>38</id>
+      <lat>49.279276</lat>
+      <lng>-123.110015</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Shop</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>39</id>
+      <lat>49.279264</lat>
+      <lng>-123.110022</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Diamond</meshId>
+      <movementSmoothing>0</movementSmoothing>
+      <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
+      <useMovingAverage>false</useMovingAverage>
+      <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    </Entry>
+    <Entry>
+      <id>40</id>
+      <lat>49.279243582995349</lat>
+      <lng>-123.11007534131743</lng>
+      <altitude>0</altitude>
+      <altitudeMode>GroundRelative</altitudeMode>
+      <name>entry</name>
+      <meshId>Star</meshId>
       <movementSmoothing>0</movementSmoothing>
       <maxNumberOfLocationUpdates>1</maxNumberOfLocationUpdates>
       <useMovingAverage>false</useMovingAverage>

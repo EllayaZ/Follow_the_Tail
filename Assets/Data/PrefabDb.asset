@@ -13,9 +13,27 @@ MonoBehaviour:
   m_Name: PrefabDb
   m_EditorClassIdentifier: 
   Entries:
-  - MeshId: Cube
-    Prefab: {fileID: 4603798978349814401, guid: 01781488820f144aea1593811cd988cb,
+  - MeshId: Shop
+    Prefab: {fileID: 5512500805100350131, guid: 0c1be56a503284a3bacfcf372d190331,
       type: 3}
-  - MeshId: Sphere
-    Prefab: {fileID: 5403032636603227479, guid: e403dab1e1cce4ecb84d68109366f88e,
+  - MeshId: Bottles
+    Prefab: {fileID: 6279007860474644164, guid: f674f7d1169574789a367121f3f056e4,
+      type: 3}
+  - MeshId: Pizza
+    Prefab: {fileID: 8881197069343969541, guid: b596cef2881a94dadacf97135447c581,
+      type: 3}
+  - MeshId: Sushi
+    Prefab: {fileID: 3650069468595267892, guid: 57a926890592c467cbb1a436b2b4e4cc,
+      type: 3}
+  - MeshId: Burger
+    Prefab: {fileID: 5600215866064087977, guid: cc979fe2c030c4100a5b9ceced68fe2f,
+      type: 3}
+  - MeshId: Camera
+    Prefab: {fileID: 6184518653193514388, guid: 0b49ce917715749c887ec83cf7530fba,
+      type: 3}
+  - MeshId: Star
+    Prefab: {fileID: 8142232572814351256, guid: b2d89a4fa0413463f8818f3e4c958c5f,
+      type: 3}
+  - MeshId: Diamond
+    Prefab: {fileID: 8142232572814351256, guid: 75f41a7a494264105bce4aa9c56a1ef0,
       type: 3}
