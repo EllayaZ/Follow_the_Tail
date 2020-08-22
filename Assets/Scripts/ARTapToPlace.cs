@@ -9,6 +9,7 @@ public class ARTapToPlace : MonoBehaviour
     [SerializeField] private GameObject starObjectToPlace;
     [SerializeField] private GameObject placementIndicator;
     [SerializeField] private ARRaycastManager aRRaycastManager;
+    [SerializeField] private DatabaseHandlerForString dataBase;
     private bool placementPoseIsValid = false;
     private Pose placementPose;
     private int indexOfObjectToPlace = 0;
@@ -30,14 +31,17 @@ public class ARTapToPlace : MonoBehaviour
         {
             case 0:
                 Instantiate(diamondObjectToPlace, placementPose.position, placementPose.rotation);
+                dataBase.PostLocation("Diamond");
                 break;
             case 1:
                 Instantiate(starObjectToPlace, placementPose.position, placementPose.rotation);
+                dataBase.PostLocation("Star");
                 break;
             default:
                 Debug.Log("Error placing object");
                 break;
         }
+        placementIndicator.SetActive(false);
         gameObject.SetActive(false);
     }
 

@@ -10,5 +10,5 @@ EditorBuildSettings:
     guid: 4b5617536e7303048a0a8cad05991357
   - enabled: 1
     path: Assets/Scenes/AR Scene.unity
-    guid: b748c627c445c4fd3aaf3e09d23e7d10
+    guid: d960dbac24cd34603b6f4743cf73b124
   m_configObjects: {}

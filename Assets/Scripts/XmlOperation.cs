@@ -20,4 +20,15 @@ public static class XmlOperation
         reader.Close();
         return deserialized;
     }
+
+    public static string GetXML(object item)
+    {
+        XmlSerializer serializer = new XmlSerializer(item.GetType());
+        StringWriter writer = new StringWriter();
+        serializer.Serialize(writer, item);
+        string result = writer.ToString();
+        writer.Close();
+
+        return result;
+    }
 }

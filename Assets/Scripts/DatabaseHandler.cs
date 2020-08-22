@@ -17,7 +17,6 @@ public class DatabaseHandler : MonoBehaviour
         StartCoroutine(GetLocations());
         locationService = gameObject.GetComponent<LocationService>();
         webMapLoader = gameObject.GetComponent<WebMapLoader>();
-        //PostNewLocation(32, 49.279264, -123.110048, "Pizza");
     }
 
     IEnumerator GetLocations()
